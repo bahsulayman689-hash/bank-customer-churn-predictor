@@ -8,7 +8,7 @@ An end-to-end Machine Learning binary classification application that predicts c
 
 You can interact with the fully deployed, live version of this bank churn application directly in your web browser:
 
-👉 **[Launch Live Web Application](https://streamlit.app)** 🚀
+👉 **[Launch Live Web Application](https://bank-customer-churn-predictor-bah.streamlit.app/)** 🚀
 
 *(Note: Replace the link above with your actual live URL once deployed to Streamlit Community Cloud!)*
 
